@@ -1,0 +1,5 @@
+Task No.3
+Imagine you have two integers a & b
+int a = 5;
+int b = 7;
+Swap them without using other variables.
